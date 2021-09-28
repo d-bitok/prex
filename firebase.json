@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "prex-interiors-ltd",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Git/cafe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Prex-Interior-LTD"
+	}
+}
